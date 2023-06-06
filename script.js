@@ -291,5 +291,15 @@
   
 // }
 
+// slice method
 
+// const numbers=[1,2,3,4,5,6,7]
+// console.log(numbers);
+
+// const newNumbers=numbers.slice(2 ,4);
+// console.log(newNumbers);
+
+// const numbers=[0,1,2,3,4,5,6,7]
+// const newNumbers=numbers.slice(3,7);
+// console.log(newNumbers);
 
