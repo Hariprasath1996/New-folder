@@ -299,7 +299,119 @@
 // const newNumbers=numbers.slice(2 ,4);
 // console.log(newNumbers);
 
-// const numbers=[0,1,2,3,4,5,6,7]
-// const newNumbers=numbers.slice(3,7);
+// let numbers=[1,2,3,4,5,6,7]
+// let newNumbers=numbers.slice(3,5);
 // console.log(newNumbers);
+
+
+// let fruits = ['apple', 'banana', 'cherry', 'date', 'elderberry'];
+
+// // fruits.splice(1,3)
+
+// let removedFruits=fruits.splice(1,3)
+
+// // console.log(fruits);
+
+// console.log( removedFruits);
+
+
+// if statement 
+
+// const age=15
+
+// if (age<=20) {
+//   console.log(`you are an adult`);
+// }
+
+
+// if and else statement
+
+// const age=15
+
+// if (age<=20) {
+//   console.log(`you are an adult`);
+  
+// }
+// else{
+//   console.log(`you are a minor`);
+// }
+
+
+
+// if and else if and else statement 
+
+
+// const num = 7;
+
+// if (num <= 0) {
+//   console.log("Positive number.");
+// } else if (num >= 0) {
+//   console.log("Negative number.");
+// } else {
+//   console.log("Zero.");
+// }
+
+
+// switchcase
+
+// let day= `wednesday`
+// switch (day) {
+//   case `monday`:
+//     console.log(`its a monday`);
+//     break;
+//     case `tuesday`:
+//     console.log(`its a tuesday`);
+//     break;
+//     case `wednesday`:
+//     console.log(`its a wednesday`);
+//     break;
+//     case `thursday`:
+//     console.log(`its a thursday`);
+//     break;
+//     case `friday`:
+//     console.log(`its a friday`);
+  
+//     break;
+
+//   default:
+//     console.log(`its a weekend`);
+//     break;
+// }
+
+// ternary operators
+
+// const age=25
+// let message = age>30
+
+// ?`you are an adult`
+// :`you are an minor`
+
+// console.log(message);
+
+
+// const age1 = 20;
+// const message1 = age1 >= 18 ? "You are an adult." : "You are a minor.";
+// console.log(message1);
+
+
+// split method
+
+// const sentence = "Hello, world! How are you?";
+// const words = sentence.split();
+// console.log(words);
+
+// const sentence1 = "Hello, world! How are you?";
+// const words1 = sentence1.split(``);
+// console.log(words1);
+
+
+// type conversion
+
+// let age=`25`
+// let num =Number(25)
+// console.log(num);
+// let bool=Boolean(25)
+// console.log(bool);
+
+
 
